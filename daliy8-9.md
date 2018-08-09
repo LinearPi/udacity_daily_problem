@@ -20,4 +20,4 @@
 | 16 焦一恒* | 字典elements = {"hydrogen": 1, "helium": 2, "carbon": 6}中，哪些是键？哪些是值？键的类型可以有哪些？请输出“carbon”对应的值。 |
 | 17 郝凯凯** | my_tuple = (1,2,10)，如何从my_tuple中取出第二个值？   my_set = {1,2,4},可以从中取出第二个值吗？ |
 | 18 施亦超*** | my_list = [1,2,2,4,12,18]    快速找出my_list中不重复的元素 |
-| 19 宋晗煜*** | cube：length：40，width：40，height：40。请创建一个字典，包括cube的所有信息，并输出cube的width值。（工作人员） |
+| 19 宋晗煜*** | cube：length：40，width：40，height：40。请创建一个字典，包括cube的所有信息，并输出cube的width值。 |
